@@ -19,12 +19,7 @@ void handler(int signal)
       c = 0;
     }
 }
-
-// make it a char
-// &
-// |
-// constuct
-
+ 
 
 int main(int ac, char **av)
 {
